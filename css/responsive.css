@@ -58,6 +58,10 @@
         display: none;
     }
 
+    h1 {
+        padding: 10px;
+    }
+
     .hamburguerMenu {
         display: flex;
         justify-content: space-between;
