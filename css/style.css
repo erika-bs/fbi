@@ -22,7 +22,7 @@ header nav {
     align-items: center;
 }
 
-a:visited {
+a:visited,a:link {
     color: white;
 }
 
